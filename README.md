@@ -5,13 +5,13 @@
 
 ###  🙋‍♂️ Soy Ismael:
 
-  #### _Técnico de Sistemas 💻_
-  #### _Desarrollador Web en proceso 👨‍💻_
+  #### Técnico de Sistemas 💻
+  #### Desarrollador Web en proceso 👨‍💻
 
 
 * ### 🤳 Dónde me puedes encontrar!
-  * Twitter: https://twitter.com/ismaqo36
-  * Instagram: https://www.instagram.com/ismaqo36/
-  * LinkedIn: https://www.linkedin.com/in/ismael-quicio-ortega-91352b1bb/
+  * _Twitter:_ https://twitter.com/ismaqo36
+  * _Instagram:_ https://www.instagram.com/ismaqo36/
+  * _LinkedIn:_ https://www.linkedin.com/in/ismael-quicio-ortega-91352b1bb/
   
   
