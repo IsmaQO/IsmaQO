@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![madremiawilly](/images/willy.jpg)
 
 Here are some ideas to get you started:
 
