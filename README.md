@@ -1,14 +1,16 @@
-### Hi there 👋
+## Hello there!! 👋 
 
-![madremiawilly](/images/willy.jpg)
+![gato.exe](/images/wanda.jpg)
 
-Here are some ideas to get you started:
+###  🙋‍♂️ Soy Ismael:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  #### _Técnico de Sistemas 💻_
+  #### _Desarrollador Web en proceso 👨‍💻_
+
+
+* ### 🤳 Dónde me puedes encontrar!
+  * Twitter: https://twitter.com/ismaqo36
+  * Instagram: https://www.instagram.com/ismaqo36/
+  * LinkedIn: https://www.linkedin.com/in/ismael-quicio-ortega-91352b1bb/
+  
+  
