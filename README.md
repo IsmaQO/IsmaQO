@@ -16,4 +16,4 @@
   
 
 * ### 🌐 Visita mi web!
-  * https://ismaqo.github.io/
+  * https://ismaqo.netlify.app/
