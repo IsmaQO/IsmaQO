@@ -1,7 +1,4 @@
-## Hello there!! 👋 
-
-![gato](/images/wanda.jpg)
-> Todo lo que hago pasa por un control de calidades 🐱‍👤
+# Hello there!! 👋 
 
 ###  🙋‍♂️ Soy Ismael:
 
