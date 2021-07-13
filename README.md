@@ -6,7 +6,7 @@
 ###  🙋‍♂️ Soy Ismael:
 
   #### Técnico de Sistemas 💻
-  #### Desarrollador Web en proceso 👨‍💻
+  #### Desarrollador Web 👨‍💻
 
 
 * ### 🤳 Dónde me puedes encontrar!
