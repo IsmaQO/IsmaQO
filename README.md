@@ -1,9 +1,9 @@
 # Hello there!! 👋 
 
-###  🙋‍♂️ Soy Ismael:
+##  🙋‍♂️ Soy Ismael:
 
-  #### Técnico de Sistemas 💻
-  #### Desarrollador Web 👨‍💻
+  ### Técnico de Sistemas 💻
+  ### Desarrollador Web 👨‍💻
 
 
 * ### 🤳 Dónde me puedes encontrar!
