@@ -1,6 +1,6 @@
 ![itsme](/images/banner.png)
 
-## Soy desarrollador web y técnico de sistemas de Las Palmas de Gran Canaria 🏝
+## Desarrollador web Full-Stack en Las Palmas de Gran Canaria 🏝
 
 ### Aquí es donde me puedes encontrar 👇
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ismaqo36/)
